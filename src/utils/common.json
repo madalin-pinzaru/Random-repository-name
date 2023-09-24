@@ -1,0 +1,6 @@
+{
+  "vanillaSearch": "Vanilla Search",
+  "search": "Search here",
+  "searchResults": "Search results",
+  "resultsTime": "About {{resultsNumber}} results ({{time}} seconds)"
+}
