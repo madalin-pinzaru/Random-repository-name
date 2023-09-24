@@ -1,8 +1,14 @@
 .content-wrapper {
   width: 800px;
+  @media only screen and (max-width: 600px) {
+    width: 350px;
+  }
 }
 .searchBar-container {
   width: 400px;
+  @media only screen and (max-width: 600px) {
+    width: 320px;
+  }
 }
 
 .search-result {
